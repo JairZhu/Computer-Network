@@ -4,7 +4,7 @@
 **该通信协议基于TCP连接，无加密**
 
 **协议的报文结构如图所示：**  
-! [协议报文结构]https://raw.githubusercontent.com/JairZhu/Computer-Network/master/Client-Server/%E6%8A%A5%E6%96%87%E6%A0%BC%E5%BC%8F.PNG  
+![](https://raw.githubusercontent.com/JairZhu/Computer-Network/master/Client-Server/%E6%8A%A5%E6%96%87%E6%A0%BC%E5%BC%8F.PNG)  
   
 
 **服务器提供的服务：**  
@@ -26,4 +26,4 @@
 
 **新增功能：**  在服务器端和客户端增加了进度条显示功能，方便观察数据传输的进度
 
-**遇到的问题：**  
+**遇到的问题：**
