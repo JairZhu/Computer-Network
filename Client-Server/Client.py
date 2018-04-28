@@ -77,11 +77,11 @@ while True:
                 file.write(data)
                 t.update(len(data))
                 recieved_length = len(data)
-            #判断是否接收完
+            # 判断是否接收完
             if recieved_length >= file_length:
                 break
         t.close()
-        #关闭文件
+        # 关闭文件
         file.close()
         print('Recieved', recieved_length, 'bytes', user_choose)
         # 关闭连接
